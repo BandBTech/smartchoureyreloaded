@@ -1,0 +1,82 @@
+{
+    "Thanks": {
+        "1": "Thank you"
+    },
+    "Why": {
+        "1": "この動画を見るには"
+    },
+    "Register Now?": {
+        "1": "Register Now?"
+    },
+    "Don't have an account": {
+        "1": "Don't have an account"
+    },
+    "or": {
+        "1": "or"
+    },
+    "Remember me": {
+        "1": "Remember me"
+    },
+    "Forgot Password?": {
+        "1": "Forgot Password?"
+    },
+    "Password": {
+        "1": "Password"
+    },
+    "Email Address": {
+        "1": "Email Address"
+    },
+    "Login": {
+        "1": "Login"
+    },
+    "Logout": {
+        "1": "Logout"
+    },
+    "Profile": {
+        "1": "Profile"
+    },
+    "Confirm Password": {
+        "1": "Confirm Password"
+    },
+    "Accept our terms and conditions": {
+        "1": "Accept our terms and conditions"
+    },
+    "SignUp": {
+        "1": "SignUp"
+    },
+    "Login Now?": {
+        "1": "Login Now?"
+    },
+    "Already have an account": {
+        "1": "Already have an account"
+    },
+    "Terms and Condition": {
+        "1": "Terms and Condition"
+    },
+    "terms": {
+        "1name": "Our Approach to Personal Information Protection",
+        "1": "NAiT Co., Ltd. (hereinafter referred to as “our company”) information such as the customer's name or company's address, telephone number, e-mail address, etc. We may obtain and use it. We do not use these customer personal information (hereinafter referred to as “personal information”), and comply with the following policy.We handle personal information under",
+        "1a": "In addition to complying with the Act on the Protection of Personal Information and other related laws and regulations that apply to personal information, we will comply with generally accepted practices regarding the handling of personal information and handle it appropriately. We will also strive to improve our handling as appropriate.",
+        "1b": "We will clarify the guidelines regarding the handling of personal information and ensure that all employees are aware of them. We also request our business partners, etc., to handle personal information appropriately.",
+        "1c": "When acquiring personal information, we specify the purpose of use and notify or announce it, and handle personal information according to the purpose of use.",
+        "1d": "We will accept requests from customers for disclosure, correction, deletion, and suspension of use of their own personal information at the prescribed contact point, and will respond in good faith.",
+        "2name": "Purpose of use, etc.",
+        "2": "While the Company acquires personal information necessary for the execution of its business as part of its Internet business, this personal information is used only for the purposes specified by the Company when providing individual services. Let me do it. In addition, in order to facilitate business operations, the Company may outsource part of the business and provide personal information to the outsourcing party to the extent necessary. We will conduct appropriate management, including concluding a contract with the third party regarding the handling of personal information.",
+        "3name": "Disclosure and provision to third parties",
+        "3": "We will not disclose or provide personal information to third parties, except in the case of provision to subcontractors described in “2. Purpose of use, etc.” or in any of the following cases.",
+        "3a": "When there is consent from the customer himself/herself",
+        "3b": "When disclosing or providing personal information in a form that makes it impossible to identify the individual, such as statistical data",
+        "3c": "When disclosure/provision is requested based on laws and ordinances",
+        "3d": "When it is necessary to protect human life, body or property and it is difficult to obtain the customer's consent",
+        "3e": "When it is necessary to cooperate with the national government or local governments in carrying out public affairs, and obtaining the customer's consent may interfere with the execution of the said business."
+    },
+    "Close": {
+        "1": "Close"
+    },
+    "Send Email": {
+        "1": "Send Email"
+    }, 
+    "Site Detail": {
+        "1": "Stie Detail"
+    }
+}
